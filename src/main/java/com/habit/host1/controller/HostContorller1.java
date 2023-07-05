@@ -23,6 +23,8 @@ import java.util.*;
 @RequestMapping("/host")
 public class HostContorller1 {
 
+    // 모두들 고생 많았어요
+
     private final HostService1 hostService1;
 
     // [habit_create.jsp] ==========================================================================================================================
